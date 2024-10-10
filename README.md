@@ -18,11 +18,11 @@ Optimize the model using appropriate techniques
 Generate a set of insights and recommendations that will help the bank
 Data Dictionary:
 
-CLIENTNUM: 
+### CLIENTNUM: 
 
-Client number. Unique identifier for the customer holding the account
-Attrition_Flag: Internal event (customer activity) variable - if the account is closed then "Attrited Customer" else "Existing Customer"
-Customer_Age: Age in Years
+*Client number : Unique identifier for the customer holding the account
+*Attrition_Flag: Internal event (customer activity) variable - if the account is closed then "Attrited Customer" else "Existing Customer"
+*Customer_Age: Age in Years
 Gender: Gender of the account holder
 Dependent_count: Number of dependents
 Education_Level:  Educational Qualification of the account holder - Graduate, High School, Unknown, Uneducated, College(refers to a college student), Post-Graduate, Doctorate.
