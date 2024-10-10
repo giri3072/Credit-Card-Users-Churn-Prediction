@@ -18,7 +18,9 @@ Optimize the model using appropriate techniques
 Generate a set of insights and recommendations that will help the bank
 Data Dictionary:
 
-CLIENTNUM: Client number. Unique identifier for the customer holding the account
+CLIENTNUM: 
+
+Client number. Unique identifier for the customer holding the account
 Attrition_Flag: Internal event (customer activity) variable - if the account is closed then "Attrited Customer" else "Existing Customer"
 Customer_Age: Age in Years
 Gender: Gender of the account holder
@@ -39,3 +41,5 @@ Total_Trans_Ct: Total Transaction Count (Last 12 months)
 Total_Ct_Chng_Q4_Q1: Ratio of the total transaction count in 4th quarter and the total transaction count in 1st quarter
 Total_Amt_Chng_Q4_Q1: Ratio of the total transaction amount in 4th quarter and the total transaction amount in 1st quarter
 Avg_Utilization_Ratio: Represents how much of the available credit the customer spent
+
+
